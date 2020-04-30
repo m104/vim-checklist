@@ -1,0 +1,12 @@
+# Syntax
+  - Multi-line items
+
+# Actions
+  - Commands for creating/converting items
+    - Pending
+    - Optional
+    - Completed
+    - Bullet
+
+# Plugin
+  - Allow override of highlight linkings
